@@ -1,0 +1,12 @@
+body {
+color:black;
+background-color:grey;
+background-size: cover;
+background-image:url(http://www.isospace.fr/wp-content/uploads/2017/12/cloisons-vitr%C3%A9e-bureau-entreprise-1.jpg);
+margin:0;
+}
+p{
+    color: black;
+    font-size : 25px;
+
+}
